@@ -48,6 +48,7 @@
      6. Stat an Ad Hoc IMDS Web Server
           In the terminal app press cmd+n
           Navigate to the temp directory : cd temp
+            python3 -m http.server 8000
 
      7. Log In
      8. Close the Environment
